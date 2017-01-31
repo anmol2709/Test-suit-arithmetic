@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage 
+line-rate="1.00" lines-valid="5" lines-covered="5" branches-valid="0" branches-covered="0" branch-rate="1.00" complexity="0" version="1.0" timestamp="1485861134271">
+    <sources>
+        <source>--source</source>
+        <source>/home/knoldus/Sbt-Demo/src/main/scala-2.12</source>
+        <source>/home/knoldus/Sbt-Demo/src/main/scala</source>
+        <source>/home/knoldus/Sbt-Demo/src/main/java</source>
+    </sources>
+    <packages>
+        <package name="edu.knoldus" line-rate="1.00" branch-rate="1.00" complexity="0">
+            <classes>
+                <class 
+                name="edu.knoldus.Arithmetic" filename="edu/knoldus/Arithmetic.scala" line-rate="1.00" branch-rate="1.00" complexity="0">
+                    <methods>
+                        <method name="edu.knoldus/Arithmetic/multiply" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="15" hits="1" branch="false"/>
+                            </lines>
+                        </method>
+                        <method name="edu.knoldus/Arithmetic/sum" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="9" hits="1" branch="false"/>
+                            </lines>
+                        </method>
+                        <method name="edu.knoldus/Arithmetic/divide" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="21" hits="1" branch="false"/>
+                                <line number="20" hits="1" branch="false"/>
+                                <line number="20" hits="1" branch="false"/>
+                            </lines>
+                        </method>
+                    </methods>
+                    <lines>
+                        <line number="15" hits="1" branch="false"/>
+                        <line number="21" hits="1" branch="false"/>
+                        <line number="20" hits="1" branch="false"/>
+                        <line number="9" hits="1" branch="false"/>
+                        <line number="20" hits="1" branch="false"/>
+                    </lines>
+</class>
+            </classes>
+        </package>
+    </packages>
+</coverage>
